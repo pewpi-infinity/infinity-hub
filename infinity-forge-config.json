@@ -1,0 +1,20 @@
+{
+  "machine": "infinity-hub",
+  "title": "Infinity Hub",
+  "emoji": "\ud83d\udd04",
+  "purpose": "Where every repo pathway converges. Dashboard of dashboards. One-click access to any machine.",
+  "tools": [
+    "Hub Navigator",
+    "Quick Launch",
+    "System Status",
+    "Machine Index"
+  ],
+  "color": "#2196f3",
+  "network": "infinity-forge",
+  "connections": [
+    "infinity-crown-index",
+    "infinity-tools",
+    "smug_look",
+    "mongoose.os"
+  ]
+}
